@@ -1,5 +1,6 @@
 package Maven;
 
-public class NewClass {
-
+public class NewClass 
+{
+    
 }
