@@ -21,7 +21,6 @@ public class MainCalculator {
 			System.out.println("Failed");
 		}
 		
-		
 
 	}
 
