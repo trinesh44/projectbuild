@@ -32,7 +32,7 @@ public class CalculatorTest
 		Assert.assertEquals("TC_GetWishes ","Hello world",result);
 		
 	}
-
+  
 	@Test
 	public void testAddition() {
 		int varResult_addition=objscientificCalculator.addition(12, 12);
